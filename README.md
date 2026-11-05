@@ -15,7 +15,7 @@
 </div>
 
 > [!NOTE]
-> the source code, credentials and trained models stay private. This repository only describes the architecture and what I learned. The underlying dataset is public (see [Dataset](#-dataset)).
+> This is the **client project** , so the source code, credentials and trained models stay private. This repository only describes the architecture and what I learned. The underlying dataset is public (see [Dataset](#-dataset)).
 
 ---
 
@@ -230,6 +230,6 @@ Constante, F., Silva, F., & Pereira, A. (2019). *DataCo SMART SUPPLY CHAIN FOR B
 
 <div align="center">
 
-**🔒 Source code is private 
+**🔒 (client project) Source code is private 
 
 </div>
